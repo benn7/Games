@@ -1,0 +1,6 @@
+C:\Users\Ben\Dropbox\Projects\Mastermind\Mastermind\bin\Debug\Mastermind.exe.config
+C:\Users\Ben\Dropbox\Projects\Mastermind\Mastermind\bin\Debug\Mastermind.exe
+C:\Users\Ben\Dropbox\Projects\Mastermind\Mastermind\bin\Debug\Mastermind.pdb
+C:\Users\Ben\Dropbox\Projects\Mastermind\Mastermind\obj\Debug\Mastermind.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Dropbox\Projects\Mastermind\Mastermind\obj\Debug\Mastermind.exe
+C:\Users\Ben\Dropbox\Projects\Mastermind\Mastermind\obj\Debug\Mastermind.pdb
